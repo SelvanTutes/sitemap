@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://e.com
+
+# Sitemaps
+Sitemap: https://e.com/sitemap.xml
