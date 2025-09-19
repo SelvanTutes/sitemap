@@ -9,7 +9,7 @@ export default function SelvanPage() {
   return (
     <main className="p-6">
       <h1>Hello from SelvanPage 👋</h1>
-      <p>This page uses App Router metadata for SE.</p>
+      <p>This page uses App Router metadata for SEfffff.</p>
     </main>
   );
 }
